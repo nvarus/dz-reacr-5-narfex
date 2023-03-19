@@ -5,8 +5,8 @@ import style from "../../data/ListCards/ListCard.module.css";
 
 
 const Hero = ({data, setID}) => {
-	const [showCards, setShowCards] = useState([...data.cards]);
-	const list = showCards.map((item, index) => (
+	// const [showCards, setShowCards] = useState([...data.cards]);
+	const list = data.cards.map((item, index) => (
 		<Card
 			key={index}
 			img={item.img}
