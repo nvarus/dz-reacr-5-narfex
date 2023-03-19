@@ -20,7 +20,7 @@ const data = {
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-04/1618685159_2-p-stil-kontemporari-v-dizaine-interera-2.jpg"
+						value: "http://mobimg.b-cdn.net/v3/fetch/fe/fe75efdf30d670a6bbcbc25d4d405335.jpeg"
 					},
 					{
 						type: "paragraph",
@@ -32,7 +32,7 @@ const data = {
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-06/1624025151_27-almode_ru-p-luchshie-intereri-kvartir-31.jpg"
+						value: "https://kaifolog.ru/uploads/posts/2017-04/1492320026_015.jpg"
 					},
 					{
 						type: "paragraph",
@@ -44,7 +44,7 @@ const data = {
 					},
 					{
 						type: "image",
-						value: "https://hameleone.ru/wp-content/uploads/d/6/3/d63a2beff2c40756b8ab9021936e75c5.jpeg"
+						value: "https://postila.ru/data/ac/7d/fd/10/ac7dfd1007f9d62842abd2a2e2da4603161e18e8d70b2d3c8fa6f647497e6685.jpg"
 					},
 					{
 						type: "paragraph",
@@ -54,7 +54,7 @@ const data = {
 			},
 			{
 				img: "https://shutok.ru/uploads/posts/2022-09/1663774112_shutok.ru.5.jpg",
-				title: "The Top 2020 Handbag Trends to Know",
+				title: "16 humor stories that will change your life for the better",
 				date: "2018-07-05",
 				theme: "Humor",
 				previewText: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem eligendi labore veniam.",
@@ -71,7 +71,7 @@ const data = {
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-04/1618685159_2-p-stil-kontemporari-v-dizaine-interera-2.jpg"
+						value: "https://www.factroom.ru/wp-content/uploads/2015/11/1636.jpg"
 					},
 					{
 						type: "paragraph",
@@ -83,7 +83,7 @@ const data = {
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-06/1624025151_27-almode_ru-p-luchshie-intereri-kvartir-31.jpg"
+						value: "https://anekdot-anekdoty.ru/wp-content/uploads/2022/05/yumor-iz-zhizni-10.jpg"
 					},
 					{
 						type: "paragraph",
@@ -95,7 +95,7 @@ const data = {
 					},
 					{
 						type: "image",
-						value: "https://hameleone.ru/wp-content/uploads/d/6/3/d63a2beff2c40756b8ab9021936e75c5.jpeg"
+						value: "https://krot.info/uploads/posts/2022-03/1647169695_12-krot-info-p-uboinii-yumor-prikoli-smeshnie-foto-12.jpg"
 					},
 					{
 						type: "paragraph",
@@ -108,7 +108,7 @@ const data = {
 				title: "The Top 2020 Handbag Trends to Know",
 				date: "2018-07-05",
 				theme: "Bicycle sport",
-				previewText: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem eligendi labore veniam.",
+				previewText: "It will hit you to such an extent that you will not be able to live the same way as before. Something unthinkable original and new.",
 				authorID: 3,
 				content: [
 					{
@@ -122,7 +122,7 @@ const data = {
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-04/1618685159_2-p-stil-kontemporari-v-dizaine-interera-2.jpg"
+						value: "https://imgresizer.eurosport.com/unsafe/800x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_13_59707584_20230218-181451.jpeg"
 					},
 					{
 						type: "paragraph",
@@ -134,7 +134,7 @@ const data = {
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-06/1624025151_27-almode_ru-p-luchshie-intereri-kvartir-31.jpg"
+						value: "https://velolive.com/uploads/posts/2023-03/1679183621_milano-sanremo-2023-04.jpg"
 					},
 					{
 						type: "paragraph",
@@ -146,7 +146,7 @@ const data = {
 					},
 					{
 						type: "image",
-						value: "https://hameleone.ru/wp-content/uploads/d/6/3/d63a2beff2c40756b8ab9021936e75c5.jpeg"
+						value: "https://velodaily.ru/wp-content/uploads/2023/03/336314402_491170783225850_4997149872827033108_n-jpg.webp"
 					},
 					{
 						type: "paragraph",
@@ -173,7 +173,7 @@ const data = {
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-04/1618685159_2-p-stil-kontemporari-v-dizaine-interera-2.jpg"
+						value: "https://vuzopedia.ru/storage/app/uploads/public/5e1/0a0/3a2/5e10a03a25772031071085.jpg"
 					},
 					{
 						type: "paragraph",
@@ -185,7 +185,7 @@ const data = {
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-06/1624025151_27-almode_ru-p-luchshie-intereri-kvartir-31.jpg"
+						value: "https://nadip.ru/wp-content/uploads/2021/04/123-4.jpg"
 					},
 					{
 						type: "paragraph",
@@ -197,7 +197,7 @@ const data = {
 					},
 					{
 						type: "image",
-						value: "https://hameleone.ru/wp-content/uploads/d/6/3/d63a2beff2c40756b8ab9021936e75c5.jpeg"
+						value: "https://polo-art.ru/assets/images/d65d6d0ca926505bffabb2fe9ea275cd.jpeg"
 					},
 					{
 						type: "paragraph",
@@ -523,110 +523,110 @@ const data = {
 				img: "https://rare-gallery.com/uploads/posts/1058519-landscape-forest-mountains-nature-sky-panorama-national-park-valley-wilderness-Alps-plateau-ridge-cloud-tree-autumn-mountain-grassland-meadow-natural-environment-mounta.jpg",
 				title: "Главные тенденции сумок 2020 года, о которых нужно знать",
 				date: "2018-07-05",
-				theme: "Nature",
-				previewText: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem eligendi labore veniam.",
+				theme: "Природа",
+				previewText: "В своём стремлении повысить качество жизни, они забывают, что современная методология разработки прекрасно подходит для реализации системы обучения кадров, соответствующей насущным потребностям.",
 				authorID: 1,
 				content: [
 					{
 						type: "title",
-						value: "Old frankness concern how charmed draw blind."
+						value: "Старая откровенность касается того, как зачарованные притягивают слепых."
 					},
 					{
 						type: "paragraph",
-						value: "Ladies horrible differed away set dear departure merry indeed decay rooms formed fulfilled" +
-							" ten place their. Concealed private woman departure depart contented. Marked highly landlord tiled. Chicken conviction smallest astonished having seeing furniture outward parties wondered paid oppose conviction. Windows tall face even mistake ample at dissimilar concerns sure thoroughly wish ecstatic known hearted."
+						value: "Дамы ужасно расходились, расставались, дорогой уход, веселый, действительно, распад, комнаты сформированы, выполнены" +
+							"десять ставят их. Скрытый уход частной женщины уходит довольной. С высокой отметкой домовладельца выложен плиткой. Цыпленок убеждения был поражен, увидев мебель снаружи, стороны удивились и выступили против убеждения. Windows tall face даже ошибается, когда дело доходит до непохожих забот, уверенный, что полностью желает восторженного всем сердцем."
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-04/1618685159_2-p-stil-kontemporari-v-dizaine-interera-2.jpg"
+						value: "http://mobimg.b-cdn.net/v3/fetch/fe/fe75efdf30d670a6bbcbc25d4d405335.jpeg"
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Желанный гость ранга фаворита проигрывал песни, которые прекрасно мешали зрению верить в веселье. Отображаемое положение позволяет избежать указанного безопасного положения. Человечество вспыхнуло от восторга, главным образом, другой, казалось, добавленный разветвленный знак боли, избегающий наслаждения, подарил глаза. Множество атак, затем их отдых поглощен. Продолжая намерение, озабоченный Дэшвуд повел любого за собой, затем страна полностью поторопилась"
 					},
 					{
 						type: "title",
-						value: "Tended acceptance much existence unwilling linen their numerous way effects living there. "
+						value: "Склонные к большому существованию, не желающие признавать их многочисленные последствия жизни там."
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-06/1624025151_27-almode_ru-p-luchshie-intereri-kvartir-31.jpg"
+						value: "https://kaifolog.ru/uploads/posts/2017-04/1492320026_015.jpg"
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Желанный гость ранга фаворита проигрывал песни, которые прекрасно мешали зрению верить в веселье. Отображаемое положение позволяет избежать указанного безопасного положения. Человечество вспыхнуло от восторга, главным образом, другой, казалось, добавленный разветвленный знак боли, избегающий наслаждения, подарил глаза. Множество атак, затем их отдых поглощен. Продолжая намерение, озабоченный Дэшвуд повел любого за собой, затем страна полностью поторопилась"
 					},
 					{
 						type: "title",
-						value: "Loud acceptance sure margaret off."
+						value: "Громкое одобрение убедило Маргарет в обратном."
 					},
 					{
 						type: "image",
-						value: "https://hameleone.ru/wp-content/uploads/d/6/3/d63a2beff2c40756b8ab9021936e75c5.jpeg"
+						value: "https://postila.ru/data/ac/7d/fd/10/ac7dfd1007f9d62842abd2a2e2da4603161e18e8d70b2d3c8fa6f647497e6685.jpg"
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Желанный гость ранга фаворита проигрывал песни, которые прекрасно мешали зрению верить в веселье. Отображаемое положение позволяет избежать указанного безопасного положения. Человечество вспыхнуло от восторга, главным образом, другой, казалось, добавленный разветвленный знак боли, избегающий наслаждения, подарил глаза. Множество атак, затем их отдых поглощен. Продолжая намерение, озабоченный Дэшвуд повел любого за собой, затем страна полностью поторопилась"
 					},
 				]
 			},
 			{
 				img: "https://shutok.ru/uploads/posts/2022-09/1663774112_shutok.ru.5.jpg",
-				title: "The Top 2020 Handbag Trends to Know",
+				title: "16 юмористических историй, которые изменят вашу жизнь к лучшему",
 				date: "2018-07-05",
-				theme: "Humor",
-				previewText: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem eligendi labore veniam.",
+				theme: "Юмор",
+				previewText: "Отличная подборка историй из жизни: они не оставят вас равнодушными и позволят прекрасно скоротать время.",
 				authorID: 2,
 				content: [
 					{
 						type: "title",
-						value: "Old frankness concern how charmed draw blind."
+						value: "Старая откровенность касается того, как зачарованные притягивают слепых."
 					},
 					{
 						type: "paragraph",
-						value: "Ladies horrible differed away set dear departure merry indeed decay rooms formed fulfilled" +
-							" ten place their. Concealed private woman departure depart contented. Marked highly landlord tiled. Chicken conviction smallest astonished having seeing furniture outward parties wondered paid oppose conviction. Windows tall face even mistake ample at dissimilar concerns sure thoroughly wish ecstatic known hearted."
+						value: "Дамы ужасно расходились, расставались, дорогой уход, веселый, действительно, распад, комнаты сформированы, выполнены" +
+							"десять ставят их. Скрытый уход частной женщины уходит довольной. С высокой отметкой домовладельца выложен плиткой. Цыпленок убеждения был поражен, увидев мебель снаружи, стороны удивились и выступили против убеждения. Windows tall face даже ошибается, когда дело доходит до непохожих забот, уверенный, что полностью желает восторженного всем сердцем."
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-04/1618685159_2-p-stil-kontemporari-v-dizaine-interera-2.jpg"
+						value: "https://www.factroom.ru/wp-content/uploads/2015/11/1636.jpg"
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Желанный гость ранга фаворита проигрывал песни, которые прекрасно мешали зрению верить в веселье. Отображаемое положение позволяет избежать указанного безопасного положения. Человечество вспыхнуло от восторга, главным образом, другой, казалось, добавленный разветвленный знак боли, избегающий наслаждения, подарил глаза. Множество атак, затем их отдых поглощен. Продолжая намерение, озабоченный Дэшвуд повел любого за собой, затем страна полностью поторопилась"
 					},
 					{
 						type: "title",
-						value: "Tended acceptance much existence unwilling linen their numerous way effects living there. "
+						value: "Склонные к большому существованию, не желающие признавать их многочисленные последствия жизни там."
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-06/1624025151_27-almode_ru-p-luchshie-intereri-kvartir-31.jpg"
+						value: "https://anekdot-anekdoty.ru/wp-content/uploads/2022/05/yumor-iz-zhizni-10.jpg"
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Желанный гость ранга фаворита проигрывал песни, которые прекрасно мешали зрению верить в веселье. Отображаемое положение позволяет избежать указанного безопасного положения. Человечество вспыхнуло от восторга, главным образом, другой, казалось, добавленный разветвленный знак боли, избегающий наслаждения, подарил глаза. Множество атак, затем их отдых поглощен. Продолжая намерение, озабоченный Дэшвуд повел любого за собой, затем страна полностью поторопилась"
 					},
 					{
 						type: "title",
-						value: "Loud acceptance sure margaret off."
+						value: "Громкое одобрение убедило Маргарет в обратном."
 					},
 					{
 						type: "image",
-						value: "https://hameleone.ru/wp-content/uploads/d/6/3/d63a2beff2c40756b8ab9021936e75c5.jpeg"
+						value: "https://krot.info/uploads/posts/2022-03/1647169695_12-krot-info-p-uboinii-yumor-prikoli-smeshnie-foto-12.jpg"
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Желанный гость ранга фаворита проигрывал песни, которые прекрасно мешали зрению верить в веселье. Отображаемое положение позволяет избежать указанного безопасного положения. Человечество вспыхнуло от восторга, главным образом, другой, казалось, добавленный разветвленный знак боли, избегающий наслаждения, подарил глаза. Множество атак, затем их отдых поглощен. Продолжая намерение, озабоченный Дэшвуд повел любого за собой, затем страна полностью поторопилась"
 					},
 				]
 			},
 			{
 				img: "https://s1.1zoom.ru/b5155/217/Men_Bicycle_Cycle_race_Helmet_522123_2048x1152.jpg",
-				title: "The Top 2020 Handbag Trends to Know",
+				title: "Но высокотехнологичная концепция общественного уклада позволяет оценить значение вывода текущих активов.",
 				date: "2018-07-05",
-				theme: "Bicycle sport",
-				previewText: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem eligendi labore veniam.",
+				theme: "Велоспорт",
+				previewText: "Но высокотехнологичная концепция общественного уклада позволяет оценить значение вывода текущих активов.",
 				authorID: 3,
 				content: [
 					{
@@ -635,12 +635,24 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Ladies horrible differed away set dear departure merry indeed decay rooms formed fulfilled" +
-							" ten place their. Concealed private woman departure depart contented. Marked highly landlord tiled. Chicken conviction smallest astonished having seeing furniture outward parties wondered paid oppose conviction. Windows tall face even mistake ample at dissimilar concerns sure thoroughly wish ecstatic known hearted."
+						value: "Дамы ужасно расходились, расставались, дорогой уход, веселый, действительно, распад, комнаты сформированы, выполнены" +
+							"десять ставят их. Скрытый уход частной женщины уходит довольной. С высокой отметкой домовладельца выложен плиткой. Цыпленок убеждения был поражен, увидев мебель снаружи, стороны удивились и выступили против убеждения. Windows tall face даже ошибается, когда дело доходит до непохожих забот, уверенный, что полностью желает восторженного всем сердцем."
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-04/1618685159_2-p-stil-kontemporari-v-dizaine-interera-2.jpg"
+						value: "https://imgresizer.eurosport.com/unsafe/800x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_13_59707584_20230218-181451.jpeg"
+					},
+					{
+						type: "paragraph",
+						value: "И нет сомнений, что акционеры крупнейших компаний представляют собой не что иное, как квинтэссенцию победы маркетинга над разумом и должны быть смешаны с не уникальными данными до степени совершенной неузнаваемости, из-за чего возрастает их статус бесполезности. Однозначно, акционеры крупнейших компаний набирают популярность среди определенных слоев населения, а значит, должны быть разоблачены. Не следует, однако, забывать, что повышение уровня гражданского сознания не оставляет шанса для анализа существующих паттернов поведения."
+					},
+					{
+						type: "title",
+						value: "Склонные к большому существованию, не желающие признавать их многочисленные последствия жизни там."
+					},
+					{
+						type: "image",
+						value: "https://velolive.com/uploads/posts/2023-03/1679183621_milano-sanremo-2023-04.jpg"
 					},
 					{
 						type: "paragraph",
@@ -648,97 +660,83 @@ const data = {
 					},
 					{
 						type: "title",
-						value: "Tended acceptance much existence unwilling linen their numerous way effects living there. "
+						value: "Громкое одобрение убедило Маргарет в обратном."
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-06/1624025151_27-almode_ru-p-luchshie-intereri-kvartir-31.jpg"
+						value: "https://velodaily.ru/wp-content/uploads/2023/03/336314402_491170783225850_4997149872827033108_n-jpg.webp"
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
-					},
-					{
-						type: "title",
-						value: "Loud acceptance sure margaret off."
-					},
-					{
-						type: "image",
-						value: "https://hameleone.ru/wp-content/uploads/d/6/3/d63a2beff2c40756b8ab9021936e75c5.jpeg"
-					},
-					{
-						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Желанный гость ранга фаворита проигрывал песни, которые прекрасно мешали зрению верить в веселье. Отображаемое положение позволяет избежать указанного безопасного положения. Человечество вспыхнуло от восторга, главным образом, другой, казалось, добавленный разветвленный знак боли, избегающий наслаждения, подарил глаза. Множество атак, затем их отдых поглощен. Продолжая намерение, озабоченный Дэшвуд повел любого за собой, затем страна полностью поторопилась"
 					},
 				]
 			},
 			{
 				img: "https://imageio.forbes.com/specials-images/imageserve/1075599562/0x0.jpg?format=jpg&amp;width=1200",
-				title: "The Top 2020 Handbag Trends to Know",
+				title: "В провинции никого не пугает боевой клич героев",
 				date: "2018-07-05",
-				theme: "Programming",
-				previewText: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem eligendi labore veniam.",
+				theme: "Программирование",
+				previewText: "Являясь всего лишь частью общей картины, непосредственные участники технического прогресса формируют глобальную экономическую сеть и при этом — своевременно верифицированы.",
 				authorID: 4,
 				content: [
 					{
 						type: "title",
-						value: "Old frankness concern how charmed draw blind."
+						value: "Мелочь, а приятно: ночь оказалась долгой"
 					},
 					{
 						type: "paragraph",
-						value: "Ladies horrible differed away set dear departure merry indeed decay rooms formed fulfilled" +
-							" ten place their. Concealed private woman departure depart contented. Marked highly landlord tiled. Chicken conviction smallest astonished having seeing furniture outward parties wondered paid oppose conviction. Windows tall face even mistake ample at dissimilar concerns sure thoroughly wish ecstatic known hearted."
+						value: "В своём стремлении повысить качество жизни, они забывают, что экономическая повестка сегодняшнего дня обеспечивает актуальность глубокомысленных рассуждений! Также как консультация с широким активом не оставляет шанса для как самодостаточных, так и внешне зависимых концептуальных решений!"
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-04/1618685159_2-p-stil-kontemporari-v-dizaine-interera-2.jpg"
+						value: "https://vuzopedia.ru/storage/app/uploads/public/5e1/0a0/3a2/5e10a03a25772031071085.jpg"
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Современные технологии достигли такого уровня, что постоянное информационно-пропагандистское обеспечение нашей деятельности требует от нас анализа кластеризации усилий. Для современного мира перспективное планирование говорит о возможностях поэтапного и последовательного развития общества."
 					},
 					{
 						type: "title",
-						value: "Tended acceptance much existence unwilling linen their numerous way effects living there. "
+						value: "Воистину радостный звук: грохот грома грядущих изменений"
 					},
 					{
 						type: "image",
-						value: "https://almode.ru/uploads/posts/2021-06/1624025151_27-almode_ru-p-luchshie-intereri-kvartir-31.jpg"
+						value: "https://nadip.ru/wp-content/uploads/2021/04/123-4.jpg"
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "В своём стремлении улучшить пользовательский опыт мы упускаем, что диаграммы связей освещают чрезвычайно интересные особенности картины в целом, однако конкретные выводы, разумеется, в равной степени предоставлены сами себе. Однозначно, многие известные личности набирают популярность среди определенных слоев населения, а значит, должны быть превращены в посмешище, хотя само их существование приносит несомненную пользу обществу."
 					},
 					{
 						type: "title",
-						value: "Loud acceptance sure margaret off."
+						value: "Светлый лик правового взаимодействия определил дальнейшее развитие!"
 					},
 					{
 						type: "image",
-						value: "https://hameleone.ru/wp-content/uploads/d/6/3/d63a2beff2c40756b8ab9021936e75c5.jpeg"
+						value: "https://polo-art.ru/assets/images/d65d6d0ca926505bffabb2fe9ea275cd.jpeg"
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Задача организации, в особенности же постоянный количественный рост и сфера нашей активности, в своём классическом представлении, допускает внедрение позиций, занимаемых участниками в отношении поставленных задач. А ещё диаграммы связей своевременно верифицированы."
 					},
 				]
 			},
 			{
 				img: "https://fastly.4sqi.net/img/general/600x600/415411_LaSchFAv48DD8NjCuiHurblt3X5LBxjTjFF8nUUIf3s.jpg",
-				title: "The Top 2020 Handbag Trends to Know",
+				title: "Новая парадигма реальности: обереги никого не защитили",
 				date: "2018-07-05",
-				theme: "Interior",
-				previewText: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem eligendi labore veniam.",
+				theme: "Интерьер",
+				previewText: "Таким образом, перспективное планирование играет важную роль в формировании анализа существующих паттернов поведения.",
 				authorID: 5,
 				content: [
 					{
 						type: "title",
-						value: "Old frankness concern how charmed draw blind."
+						value: "Экономическая повестка сегодняшнего дня оказалась ошибочной"
 					},
 					{
 						type: "paragraph",
-						value: "Ladies horrible differed away set dear departure merry indeed decay rooms formed fulfilled" +
-							" ten place their. Concealed private woman departure depart contented. Marked highly landlord tiled. Chicken conviction smallest astonished having seeing furniture outward parties wondered paid oppose conviction. Windows tall face even mistake ample at dissimilar concerns sure thoroughly wish ecstatic known hearted."
+						value: "Банальные, но неопровержимые выводы, а также сторонники тоталитаризма в науке, инициированные исключительно синтетически, ограничены исключительно образом мышления. Также как убеждённость некоторых оппонентов способствует подготовке и реализации экономической целесообразности принимаемых решений."
 					},
 					{
 						type: "image",
@@ -746,11 +744,11 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Также как постоянный количественный рост и сфера нашей активности способствует повышению качества новых принципов формирования материально-технической и кадровой базы! Прежде всего, синтетическое тестирование однозначно фиксирует необходимость прогресса профессионального сообщества."
 					},
 					{
 						type: "title",
-						value: "Tended acceptance much existence unwilling linen their numerous way effects living there. "
+						value: "Очевидцы сообщают, что слышали грохот грома грядущих изменений"
 					},
 					{
 						type: "image",
@@ -758,11 +756,11 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Безусловно, реализация намеченных плановых заданий не оставляет шанса для экспериментов, поражающих по своей масштабности и грандиозности. Мы вынуждены отталкиваться от того, что разбавленное изрядной долей эмпатии, рациональное мышление предполагает независимые способы реализации поставленных обществом задач."
 					},
 					{
 						type: "title",
-						value: "Loud acceptance sure margaret off."
+						value: "Сознание наших соотечественников не замутнено пропагандой!"
 					},
 					{
 						type: "image",
@@ -770,26 +768,26 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Картельные сговоры не допускают ситуации, при которой активно развивающиеся страны третьего мира, превозмогая сложившуюся непростую экономическую ситуацию, описаны максимально подробно. Для современного мира сложившаяся структура организации предоставляет широкие возможности для инновационных методов управления процессами."
 					},
 				]
 			},
 			{
 				img: "https://online-kassa.ru/wp-content/uploads/2018/10/Sistema-avtomatizatsii-biznes-protsessov-1.jpg",
-				title: "Top Search Engine Optimisation Strategies",
+				title: "Очевидцы сообщают, что слышали детский заливистый смех",
 				date: "2019-05-01",
-				theme: "Computer Science",
-				previewText: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem eligendi labore veniam.",
+				theme: "Компьютерные науки",
+				previewText: "Не следует, однако, забывать, что повышение уровня гражданского сознания напрямую зависит от соответствующих условий активизации.",
 				authorID: 6,
 				content: [
 					{
 						type: "title",
-						value: "Old frankness concern how charmed draw blind."
+						value: "Курс на социально-ориентированный национальный проект ни к чему нас не обязывает"
 					},
 					{
 						type: "paragraph",
-						value: "Ladies horrible differed away set dear departure merry indeed decay rooms formed fulfilled" +
-							" ten place their. Concealed private woman departure depart contented. Marked highly landlord tiled. Chicken conviction smallest astonished having seeing furniture outward parties wondered paid oppose conviction. Windows tall face even mistake ample at dissimilar concerns sure thoroughly wish ecstatic known hearted."
+						value: "" +
+							"Внезапно, действия представителей оппозиции объединены в целые кластеры себе подобных. Предварительные выводы неутешительны: повышение уровня гражданского сознания способствует подготовке и реализации экспериментов, поражающих по своей масштабности и грандиозности."
 					},
 					{
 						type: "image",
@@ -797,11 +795,11 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Следует отметить, что перспективное планирование играет важную роль в формировании существующих финансовых и административных условий. В рамках спецификации современных стандартов, акционеры крупнейших компаний объявлены нарушающими общечеловеческие нормы этики и морали."
 					},
 					{
 						type: "title",
-						value: "Tended acceptance much existence unwilling linen their numerous way effects living there. "
+						value: "Новая парадигма реальности: героям были возданы соответствующие почести"
 					},
 					{
 						type: "image",
@@ -809,11 +807,11 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Банальные, но неопровержимые выводы, а также диаграммы связей формируют глобальную экономическую сеть и при этом — объективно рассмотрены соответствующими инстанциями. А также диаграммы связей разоблачены."
 					},
 					{
 						type: "title",
-						value: "Loud acceptance sure margaret off."
+						value: "Новый закон накладывает вето на боевой клич героев"
 					},
 					{
 						type: "image",
@@ -821,27 +819,27 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Разнообразный и богатый опыт говорит нам, что перспективное планирование играет важную роль в формировании кластеризации усилий. Приятно, граждане, наблюдать, как элементы политического процесса, инициированные исключительно синтетически, функционально разнесены на независимые элементы."
 					},
 				]
 				
 			},
 			{
 				img: "https://bfauto.ru/wp-content/uploads/5/7/e/57ec687737f74e5f1a07dfd00b18084a.jpeg",
-				title: "Used Car Dealer Sales Tricks Exposed",
+				title: "Свободу слова не задушить, пусть даже преступность никогда не была такой неорганизованной",
 				date: "2020-12-31",
-				theme: "Cars",
-				previewText: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem eligendi labore veniam.",
+				theme: "Автомобили",
+				previewText: "Задача организации, в особенности же постоянный количественный рост и сфера нашей активности способствует подготовке и реализации системы обучения кадров, соответствующей насущным потребностям.",
 				authorID: 1,
 				content: [
 					{
 						type: "title",
-						value: "Old frankness concern how charmed draw blind."
+						value: "Курс ценных бумаг стал нашим флагом в борьбе с ложью"
 					},
 					{
 						type: "paragraph",
-						value: "Ladies horrible differed away set dear departure merry indeed decay rooms formed fulfilled" +
-							" ten place their. Concealed private woman departure depart contented. Marked highly landlord tiled. Chicken conviction smallest astonished having seeing furniture outward parties wondered paid oppose conviction. Windows tall face even mistake ample at dissimilar concerns sure thoroughly wish ecstatic known hearted."
+						value: "Есть над чем задуматься: независимые государства, которые представляют собой яркий пример континентально-европейского типа политической культуры, будут функционально разнесены на независимые элементы." +
+							"Таким образом, постоянное информационно-пропагандистское обеспечение нашей деятельности играет важную роль в формировании глубокомысленных рассуждений."
 					},
 					{
 						type: "image",
@@ -849,11 +847,11 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Приятно, граждане, наблюдать, как тщательные исследования конкурентов преданы социально-демократической анафеме. Наше дело не так однозначно, как может показаться: выбранный нами инновационный путь предопределяет высокую востребованность дальнейших направлений развития."
 					},
 					{
 						type: "title",
-						value: "Tended acceptance much existence unwilling linen their numerous way effects living there. "
+						value: "Тяжёлое машиностроение — это вам не детский заливистый смех"
 					},
 					{
 						type: "image",
@@ -861,11 +859,11 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Есть над чем задуматься: предприниматели в сети интернет объявлены нарушающими общечеловеческие нормы этики и морали. Ясность нашей позиции очевидна: разбавленное изрядной долей эмпатии, рациональное мышление создаёт необходимость включения в производственный план целого ряда внеочередных мероприятий с учётом комплекса прогресса профессионального сообщества."
 					},
 					{
 						type: "title",
-						value: "Loud acceptance sure margaret off."
+						value: "Курс на социально-ориентированный национальный проект даёт нам право принимать самостоятельные решения"
 					},
 					{
 						type: "image",
@@ -873,27 +871,27 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Курс на социально-ориентированный национальный проект даёт нам право принимать самостоятельные решения"
 					},
 				]
 				
 			},
 			{
 				img: "https://spclub23.ru/files/9a5/9a51e6d1cc74566c0455b75fd0b6807f.jpg",
-				title: "Which Company Would You Choose?",
+				title: "Курс на социально-ориентированный национальный проект даёт нам право принимать самостоятельные решения",
 				date: "2021-02-02",
-				theme: "Job search",
-				previewText: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem eligendi labore veniam.",
+				theme: "Поиск работы",
+				previewText: "И нет сомнений, что предприниматели в сети интернет будут объективно рассмотрены соответствующими инстанциями.",
 				authorID: 2,
 				content: [
 					{
 						type: "title",
-						value: "Old frankness concern how charmed draw blind."
+						value: "Политика не может не реагировать на гитарный перебор"
 					},
 					{
 						type: "paragraph",
-						value: "Ladies horrible differed away set dear departure merry indeed decay rooms formed fulfilled" +
-							" ten place their. Concealed private woman departure depart contented. Marked highly landlord tiled. Chicken conviction smallest astonished having seeing furniture outward parties wondered paid oppose conviction. Windows tall face even mistake ample at dissimilar concerns sure thoroughly wish ecstatic known hearted."
+						value: "" +
+							"С другой стороны, курс на социально-ориентированный национальный проект однозначно определяет каждого участника как способного принимать собственные решения касаемо экономической целесообразности принимаемых решений. Идейные соображения высшего порядка, а также выбранный нами инновационный путь предполагает независимые способы реализации новых принципов формирования материально-технической и кадровой базы. В своём стремлении повысить качество жизни, они забывают, что синтетическое тестирование обеспечивает широкому кругу (специалистов) участие в формировании первоочередных требований. Приятно, граждане, наблюдать, как многие известные личности лишь добавляют фракционных разногласий и преданы социально-демократической анафеме. Также как реализация намеченных плановых заданий однозначно фиксирует необходимость новых принципов формирования материально-технической и кадровой базы. А также независимые государства, вне зависимости от их уровня, должны быть объективно рассмотрены соответствующими инстанциями."
 					},
 					{
 						type: "image",
@@ -901,11 +899,11 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "А также реплицированные с зарубежных источников, современные исследования, вне зависимости от их уровня, должны быть рассмотрены исключительно в разрезе маркетинговых и финансовых предпосылок. Картельные сговоры не допускают ситуации, при которой некоторые особенности внутренней политики разоблачены. Прежде всего, граница обучения кадров играет определяющее значение для своевременного выполнения сверхзадачи. В целом, конечно, современная методология разработки представляет собой интересный эксперимент проверки стандартных подходов. Ясность нашей позиции очевидна: экономическая повестка сегодняшнего дня является качественно новой ступенью укрепления моральных ценностей."
 					},
 					{
 						type: "title",
-						value: "Tended acceptance much existence unwilling linen their numerous way effects living there. "
+						value: "Независимые СМИ потому и независимы, что средства индивидуальной защиты оказались бесполезны"
 					},
 					{
 						type: "image",
@@ -913,11 +911,11 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Однозначно, активно развивающиеся страны третьего мира могут быть объявлены нарушающими общечеловеческие нормы этики и морали. Являясь всего лишь частью общей картины, ключевые особенности структуры проекта набирают популярность среди определенных слоев населения, а значит, должны быть превращены в посмешище, хотя само их существование приносит несомненную пользу обществу. Также как постоянное информационно-пропагандистское обеспечение нашей деятельности играет определяющее значение для глубокомысленных рассуждений. Для современного мира существующая теория позволяет выполнить важные задания по разработке укрепления моральных ценностей. Каждый из нас понимает очевидную вещь: сплочённость команды профессионалов прекрасно подходит для реализации своевременного выполнения сверхзадачи. Внезапно, непосредственные участники технического прогресса, превозмогая сложившуюся непростую экономическую ситуацию, обнародованы."
 					},
 					{
 						type: "title",
-						value: "Loud acceptance sure margaret off."
+						value: "Свободу слова не задушить, пусть даже прототип — не панацея!"
 					},
 					{
 						type: "image",
@@ -925,7 +923,7 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Лишь элементы политического процесса призывают нас к новым свершениям, которые, в свою очередь, должны быть разоблачены. Как уже неоднократно упомянуто, элементы политического процесса, превозмогая сложившуюся непростую экономическую ситуацию, функционально разнесены на независимые элементы. Лишь тщательные исследования конкурентов, превозмогая сложившуюся непростую экономическую ситуацию, разоблачены. В целом, конечно, постоянный количественный рост и сфера нашей активности предоставляет широкие возможности для переосмысления внешнеэкономических политик. Банальные, но неопровержимые выводы, а также стремящиеся вытеснить традиционное производство, нанотехнологии призывают нас к новым свершениям, которые, в свою очередь, должны быть разоблачены."
 					},
 				]
 				
@@ -933,20 +931,20 @@ const data = {
 			},
 			{
 				img: "https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/1rnsN7xz5fPZTV34yvafF7H7yDc=/1440x810/filters:format(png):quality(70):focal(402x121:412x131)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/BQU5TAMDINGHHJRW43Q3SJPIQ4.png",
-				title: "20 Ways To Sell Your Product Faster",
+				title: "Подтверждено: солнечных дней всё меньше",
 				date: "2022-10-28",
-				theme: "Cooking",
-				previewText: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus iste iure labore neque nobis pariatur ratione reprehenderit, repudiandae tenetur vitae.",
+				theme: "Кулинария",
+				previewText: "Имеется спорная точка зрения, гласящая примерно следующее: независимые государства набирают популярность среди определенных слоев населения, а значит, должны быть рассмотрены исключительно в разрезе маркетинговых и финансовых предпосылок.",
 				authorID: 3,
 				content: [
 					{
 						type: "title",
-						value: "Old frankness concern how charmed draw blind."
+						value: "Нашу победу сопровождал шёпот бессменных лидеров"
 					},
 					{
 						type: "paragraph",
-						value: "Ladies horrible differed away set dear departure merry indeed decay rooms formed fulfilled" +
-							" ten place their. Concealed private woman departure depart contented. Marked highly landlord tiled. Chicken conviction smallest astonished having seeing furniture outward parties wondered paid oppose conviction. Windows tall face even mistake ample at dissimilar concerns sure thoroughly wish ecstatic known hearted."
+						value: "" +
+							"Противоположная точка зрения подразумевает, что интерактивные прототипы, которые представляют собой яркий пример континентально-европейского типа политической культуры, будут преданы социально-демократической анафеме. А ещё ключевые особенности структуры проекта могут быть своевременно верифицированы. Мы вынуждены отталкиваться от того, что внедрение современных методик прекрасно подходит для реализации соответствующих условий активизации."
 					},
 					{
 						type: "image",
@@ -954,11 +952,11 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Внезапно, реплицированные с зарубежных источников, современные исследования неоднозначны и будут объявлены нарушающими общечеловеческие нормы этики и морали. Но элементы политического процесса и по сей день остаются уделом либералов, которые жаждут быть преданы социально-демократической анафеме. И нет сомнений, что сторонники тоталитаризма в науке лишь добавляют фракционных разногласий и обнародованы."
 					},
 					{
 						type: "title",
-						value: "Tended acceptance much existence unwilling linen their numerous way effects living there. "
+						value: "Независимые СМИ потому и независимы, что объемы выросли"
 					},
 					{
 						type: "image",
@@ -966,11 +964,11 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Принимая во внимание показатели успешности, разбавленное изрядной долей эмпатии, рациональное мышление в значительной степени обусловливает важность дальнейших направлений развития. Каждый из нас понимает очевидную вещь: синтетическое тестирование способствует подготовке и реализации поставленных обществом задач. Вот вам яркий пример современных тенденций — граница обучения кадров влечет за собой процесс внедрения и модернизации прогресса профессионального сообщества."
 					},
 					{
 						type: "title",
-						value: "Loud acceptance sure margaret off."
+						value: "Подтверждено: обереги никого не защитили"
 					},
 					{
 						type: "image",
@@ -978,7 +976,7 @@ const data = {
 					},
 					{
 						type: "paragraph",
-						value: "Wanted favour rank guest lose songs fine did prevent sight believing four mirth. Rendered position weddings avoid said secure. Humanity burst out improve delight chiefly another seemed added branched shew pain avoid enjoyment gave eyes. Plenty attacks then theirs rest engrossed. Continuing intention anxious dashwood led any waited then country fully hastened"
+						value: "Высокий уровень вовлечения представителей целевой аудитории является четким доказательством простого факта: глубокий уровень погружения позволяет выполнить важные задания по разработке стандартных подходов. Господа, курс на социально-ориентированный национальный проект предопределяет высокую востребованность системы массового участия."
 					},
 				]
 			},
