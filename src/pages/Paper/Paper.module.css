@@ -1,0 +1,9 @@
+.paper {
+  max-width: 1140px;
+  min-height: 80vh;
+  margin: 3rem auto;
+  display: flex;
+  gap: 45px;
+  justify-content: space-between; }
+
+/*# sourceMappingURL=Paper.module.css.map */

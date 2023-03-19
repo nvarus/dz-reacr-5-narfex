@@ -1,0 +1,33 @@
+@import ../../sass/templates
+
+.preview
+	width: 100%
+	margin: 25px 0
+
+	.preview__img
+		width: 100%
+		max-height: 400px
+		overflow: hidden
+		@extend %border
+		border-radius: 5px
+		border: none
+
+	img
+		width: 100%
+		object-fit: cover
+		object-position: center
+
+	.preview__text
+		margin: 35px 0
+		font-size: 18px
+
+	.preview__btn
+		border: 1px solid #6087EF
+		background: white
+		padding: 20px 40px
+		border-radius: 12px
+		font-weight: 600
+		font-size: 14px
+		&:hover
+			background: #6087EF
+			color: white

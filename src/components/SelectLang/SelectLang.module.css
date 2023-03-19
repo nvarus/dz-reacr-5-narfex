@@ -1,0 +1,21 @@
+.flex {
+  display: flex;
+  justify-content: space-between;
+  width: 100px; }
+
+.flag {
+  width: 30px;
+  height: 30px;
+  overflow: hidden; }
+  .flag > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center; }
+
+.selectLang {
+  border: none;
+  width: 45px; }
+
+.selectLang span {
+  margin-right: 20px; }

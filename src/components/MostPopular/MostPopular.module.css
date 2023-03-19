@@ -1,0 +1,15 @@
+.mostPopular {
+  width: 100%;
+  min-height: 550px;
+  margin: 40px 0;
+  border-radius: 18px;
+  border: 1px dashed gray; }
+  .mostPopular .mostPopular__title {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 10px 0; }
+  .mostPopular .mostPopular__line {
+    width: 75px;
+    border-bottom: 2px solid gray; }
+
+/*# sourceMappingURL=MostPopular.module.css.map */

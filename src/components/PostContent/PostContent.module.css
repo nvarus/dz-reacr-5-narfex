@@ -1,0 +1,20 @@
+.postContent {
+  width: 100%; }
+  .postContent .postContent__title {
+    font-size: 35px;
+    margin: 45px 0; }
+  .postContent .postContent__paragraph {
+    font-size: 17px;
+    margin: 45px 0; }
+  .postContent .postContent__image {
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    margin: 45px 0; }
+    .postContent .postContent__image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center; }
+
+/*# sourceMappingURL=PostContent.module.css.map */

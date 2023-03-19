@@ -1,0 +1,13 @@
+.listCard {
+  padding-top: 70px; }
+
+.listCard__grid {
+  display: grid;
+  width: 1140px;
+  margin: 0 auto;
+  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-rows: repeat(2, 300px);
+  row-gap: 30px;
+  column-gap: 30px; }
+
+/*# sourceMappingURL=ListCard.module.css.map */
